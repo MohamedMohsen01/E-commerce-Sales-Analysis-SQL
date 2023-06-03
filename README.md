@@ -1,1 +1,0 @@
-# e-commerce_SQL_Project
