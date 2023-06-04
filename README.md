@@ -7,7 +7,6 @@ In this project, I leveraged SQL to conduct an in-depth analysis of e-commerce s
  ### Query types used:
 - count(distinct)
 - Create table
-- Create table #
 - Insert into
 - min/max
 - SUM
