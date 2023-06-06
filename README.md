@@ -61,7 +61,7 @@ This dataset contains 3 tables:
 2. **Data Understanding:**
 
  > - Familiarized myself with the dataset's structure, including the available columns, data types, and data dictionary.
-   - Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
+ > - Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
 
 3. **Data Assessment:** 
  > - Assessed the quality and structure of the data to identify any issues or inconsistencies that needed to be addressed. This involved checking for missing            values, outliers, inconsistent formatting, or data entry errors.
