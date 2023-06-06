@@ -9,12 +9,14 @@ In this SQL project, I conducted an extensive analysis of e-commerce sales data,
 - Leveraged SQL to perform statistical analysis and assess the correlation or significance of these variables with sales performance.
 
    
-## Data Dictionary
+## Data Discription
 
 This dataset contains 3 tables:
 - Features table contains 12 coluns and 8191 rows.
 - Sales table contains 5 columns and 421571 rows.
 - Stores table contains 3 columns and 64 rows.
+
+## Data Dictionary
 
 **Features Table** 
 
