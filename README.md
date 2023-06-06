@@ -81,21 +81,26 @@ This dataset contains 3 tables:
 
 ## Exploratory Data Analysis (EDA): 
 Some of the business questions I've answered based on the data:
+
+ > - What is the date range covered by the sales data?
+ > - What is the date range covered by the features data?
  > - What are the different store types in the dataset?
  > - Is there a difference in sales between the different store types?
  > - Which store has the highest total sales and which store has the lowest total sales?
- >  - How does each department perform in the best performing store?
- >  - How does each department perform in the worst performing store?
- >  - What is the highest weekly sales in each department?
- >  - How does the presence of holidays impact sales in different stores?
- >  - How does temperature relate to sales in the top-selling store (Store 33)?
+ > - How does each department perform in the best performing store?
+ > - Which store has the second-highest total sales?
+ > - How does each department perform in the worst performing store?
+ > - What is the highest weekly sales in each department?
+ > - What is the lowest weekly sales in each department?
+ > - How does the presence of holidays impact sales in different stores?
+ >  - How does temperature relate to sales in the top-selling store?
+ >  - How does temperature relate to sales in the worst-selling store?
+ >  How do different variables such as temperature, fuel price, CPI, and unemployment impact sales in the top performing store ?
+ >   >  How do different variables such as temperature, fuel price, CPI, and unemployment impact sales in the worst performing store ?
  > - Is there significant variability in sales based on temperature?
  >  - How does unemployment affect sales?
  >  - What is the impact of fuel prices on sales?
  >  - How do the variables (temperature, fuel prices, unemployment, CPI) collectively affect sales?
-
-  
-  
 
  ### Query types used:
 - Count(distinct)
@@ -108,7 +113,7 @@ Some of the business questions I've answered based on the data:
 - Partition by
 - ROUND
 - Where between
-- Joins
+- Join
 - CTEs
 - Case statement
 - Group by
