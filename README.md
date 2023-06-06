@@ -79,17 +79,23 @@ This dataset contains 3 tables:
 6. **Data Integration:** 
  > - After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined      datasets based on common identifiers or keys to combine relevant information into a unified dataset.
 
-**Exploratory Data Analysis (EDA):**
- > What are the different store types in the dataset?
-Is there a difference in sales between the different store types?
-Which store has the highest total sales and which store has the lowest total sales?
-How does each department perform in the best performing store?
-How does each department perform in the worst performing store?
-What is the highest weekly sales in each department?
-How does the presence of holidays impact sales in different stores?
-How does temperature relate to sales in the top-selling store (Store 33)?
+**Exploratory Data Analysis (EDA):** 
+Some of the business questions I've answered based on the data:
+ > - What are the different store types in the dataset?
+   - Is there a difference in sales between the different store types?
+   - Which store has the highest total sales and which store has the lowest total sales?
+   - How does each department perform in the best performing store?
+   - How does each department perform in the worst performing store?
+   - What is the highest weekly sales in each department?
+   - How does the presence of holidays impact sales in different stores?
+   - How does temperature relate to sales in the top-selling store (Store 33)?
+   - Is there significant variability in sales based on temperature?
+   - How does unemployment affect sales?
+   - What is the impact of fuel prices on sales?
+   - How do the variables (temperature, fuel prices, unemployment, CPI) collectively affect sales?
 
-
+  
+  
 
  ### Query types used:
 - Count(distinct)
