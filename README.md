@@ -11,6 +11,8 @@ In this project, I leveraged SQL to conduct an in-depth analysis of e-commerce s
 - min/max
 - SUM
 - AVG
+- Row_Number()
+- Partition by
 - ROUND
 - Where between
 - Joins
