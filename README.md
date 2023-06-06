@@ -65,10 +65,10 @@ This dataset contains 3 tables - features data table, sales data table and store
 
 3. **Data Cleaning and Preprocessing:**
   > my role in data wrangling and cleaning involved several tasks to ensure the data was in a usable and reliable format. Here are some key steps I took:
-   - Handling Missing Values: I employed techniques like imputation or deletion, depending on the nature of the missing data.
-   - Removing Duplicates: I eliminated any duplicate records or entries to ensure data integrity.
-   - Standardizing Formats: I standardized the formats of data fields, such as dates, currencies, or units, to ensure consistency.
-   - Correcting Errors: I resolved data entry errors or inconsistencies by verifying against trusted sources or applying data transformation techniques.
+  > - Handling Missing Values: I employed techniques like imputation or deletion, depending on the nature of the missing data.
+  > - Removing Duplicates: I eliminated any duplicate records or entries to ensure data integrity.
+  > - Standardizing Formats: I standardized the formats of data fields, such as dates, currencies, or units, to ensure consistency.
+  > - Correcting Errors: I resolved data entry errors or inconsistencies by verifying against trusted sources or applying data transformation techniques.
      Data Transformation: I conducted data transformations to derive meaningful insights or facilitate analysis. This involved tasks like:
 
 Aggregating Data: I aggregated data at different levels, such as daily, monthly, or by categories, to enable analysis and reporting.
