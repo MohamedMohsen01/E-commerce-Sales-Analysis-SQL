@@ -64,7 +64,7 @@ This dataset contains 3 tables - features data table, sales data table and store
  > I assessed the quality and structure of the data to identify any issues or inconsistencies that needed to be addressed. This involved checking for missing        values, outliers, inconsistent formatting, or data entry errors.
 
 3. **Data Cleaning and Preprocessing:**
-    my role in data wrangling and cleaning involved several tasks to ensure the data was in a usable and reliable format. Here are some key steps I took:
+ >   my role in data wrangling and cleaning involved several tasks to ensure the data was in a usable and reliable format. Here are some key steps I took:
  > - I employed techniques like imputation or deletion, depending on the nature of the missing data.
  > - I eliminated any duplicate records or entries to ensure data integrity.
  > - I standardized the formats of data fields, such as dates, currencies, and units, to ensure consistency.
