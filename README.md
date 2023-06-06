@@ -11,9 +11,9 @@ In this SQL project, I conducted an extensive analysis of e-commerce sales data,
 ## Data Dictionary
 
 This dataset contains 3 tables - features data table, sales data table and stores data table. 
-The Feature table contains 12 coluns and 8191 rows.
-The sales table contains 5 columns and 421571 rows.
-The stores table contains 3 columns and 64 rows.
+- The Feature table contains 12 coluns and 8191 rows.
+- The sales table contains 5 columns and 421571 rows.
+- The stores table contains 3 columns and 64 rows.
 
 **Feature Table**
 
