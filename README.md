@@ -57,11 +57,11 @@ This dataset contains 3 tables - features data table, sales data table and store
 
 1. **Data Understanding:**
 
-> Familiarized myself with the dataset's structure, including the available columns, data types, and any provided documentation or data dictionary.
- Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
+ > Familiarized myself with the dataset's structure, including the available columns, data types, and any provided documentation or data dictionary.
+  Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
 
 2. **Data Assessment:** 
-I assessed the quality and structure of the data to identify any issues or inconsistencies that needed to be addressed. This involved checking for missing values, outliers, inconsistent formatting, or data entry errors.
+ > I assessed the quality and structure of the data to identify any issues or inconsistencies that needed to be addressed. This involved checking for missing        values, outliers, inconsistent formatting, or data entry errors.
 
 3. **Data Cleaning and Preprocessing:**
 my role in data wrangling and cleaning involved several tasks to ensure the data was in a usable and reliable format. Here are some key steps I took:
