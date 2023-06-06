@@ -76,7 +76,8 @@ This dataset contains 3 tables:
      
 5. **Data Transformation:**
  > Conducted data transformations to derive meaningful insights or facilitate analysis. This involved tasks like:
-> - Aggregating Data: I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting.
+> - I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting.
+> - aggregation functions used:( SUM, MIN, MAX, COUNT, AVG)
 
 6. **Data Integration:** 
  > - After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined        datasets based on common identifiers or keys to combine relevant information into a unified dataset.
