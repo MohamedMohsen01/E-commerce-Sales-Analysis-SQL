@@ -21,7 +21,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 | Column                  | Description                                                             | Data Type      |
 | :---------------------- | :---------------------------------------------------------------------- | :------------- |
 |store                    | Represents the store number.                                            | INT            |
-|date                     | the date of the recorded data.                                          | DATETIME       |
+|date                     | the date of the recorded data.                                          | DATE           |
 | temprature              | the temperature on the given date and store location.                   | DECIMAL(3,3)   |
 | fuel price              | the fuel price on the given date and store location.                    | DECIMAL (10,3) |
 | markdown 1              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
@@ -30,18 +30,18 @@ This dataset contains 3 tables - features data table, sales data table and store
 | markdown 4              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | markdown 5              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | CPI                     | Consumer Price Index on the given date and store location.              | DECIMAL(10, 7) |
-| unemployment            | unemployment rate on the given date and store location.                 | FLOAT(10,3)    |
+| unemployment            | unemployment rate on the given date and store location.                 | DECIMAL(10,3)  |
 | IsHoliday               | Represents whether the given date is a holiday (TRUE) or not (FALSE).   | VARCHAR(5)     |
 
 
 
 **Sales Table**
-| Column                  | Description                             | Data Type      |
-| :---------------------- | :-------------------------------------- | :------------- |
-| store                   | Invoice of the sales made               | VARCHAR(30)    |
-|dept                    | Branch at which sales were made         | VARCHAR(5)     |
-| date              | The location of the branch              | VARCHAR(30)    |
-| weekly_sales             | The type of the customer                | VARCHAR(30)    |
+| Column                  | Description                                                         | Data Type      |
+| :---------------------- | :------------------------------------------------------------------ | :------------- |
+| store                   |  Represents the store number.                                       | INT            |
+| dept                    | Represents the department number.                                   | INT            |
+| date                    | the date of the recorded data.                                      | DATE           |
+| weekly_sales            | the weekly sales amount for the given store, department, and date.  | DECIMAL(20, 5) |
 
 
 **Stores Table**
