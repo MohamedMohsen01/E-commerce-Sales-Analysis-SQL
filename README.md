@@ -79,7 +79,7 @@ This dataset contains 3 tables:
 > - I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting using aggregation functions like ( SUM, MIN, MAX, COUNT, AVG)
 
 6. **Data Integration:** 
- > - After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined        datasets based on common identifiers or keys to combine relevant information into a unified dataset.
+ > - After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged and joined        datasets based on common identifiers or keys to combine relevant information into a unified dataset.
 
 ## Exploratory Data Analysis (EDA): 
 Some of the business questions I've answered based on the data:
