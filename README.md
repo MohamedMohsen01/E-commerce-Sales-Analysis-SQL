@@ -69,12 +69,9 @@ This dataset contains 3 tables - features data table, sales data table and store
   > - Removing Duplicates: I eliminated any duplicate records or entries to ensure data integrity.
   > - Standardizing Formats: I standardized the formats of data fields, such as dates, currencies, or units, to ensure consistency.
   > - Correcting Errors: I resolved data entry errors or inconsistencies by verifying against trusted sources or applying data transformation techniques.
-     Data Transformation: I conducted data transformations to derive meaningful insights or facilitate analysis. This involved tasks like:
-
-Aggregating Data: I aggregated data at different levels, such as daily, monthly, or by categories, to enable analysis and reporting.
-Creating Derived Variables: I calculated new variables or features based on existing data, which could include ratios, averages, or other derived metrics.
-Data Encoding: I encoded categorical variables into numerical representations, such as one-hot encoding or label encoding, to enable statistical analysis.
-Data Integration: If working with multiple data sources, I merged or joined datasets based on common identifiers or keys to combine relevant information into a unified dataset.
+      Data Transformation: I conducted data transformations to derive meaningful insights or facilitate analysis. This involved tasks like:
+  > - Aggregating Data: I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting.
+  > - Data Integration: If working with multiple data sources, I merged or joined datasets based on common identifiers or keys to combine relevant information           into a unified dataset.
 
 Data Validation: After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. This involved cross-checking with external sources, performing data quality checks, and validating against expected results.
 
