@@ -70,8 +70,8 @@ This dataset contains 3 tables - features data table, sales data table and store
   > - I standardized the formats of data fields, such as dates, currencies, and units, to ensure consistency.
      
 4. **Data Transformation:**
-   > I conducted data transformations to derive meaningful insights or facilitate analysis. This involved tasks like:
-    > - Aggregating Data: I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting.
+  > I conducted data transformations to derive meaningful insights or facilitate analysis. This involved tasks like:
+   > - Aggregating Data: I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting.
 
 5. **Data Integration:** 
   > After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined datasets based on common identifiers or keys to combine relevant information into a unified dataset.
