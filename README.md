@@ -55,7 +55,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 
 ## Methodology 
 
-**Data Understanding:**
+1. **Data Understanding:**
 
 Familiarized myself with the dataset's structure, including the available columns, data types, and any provided documentation or data dictionary.
 Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
