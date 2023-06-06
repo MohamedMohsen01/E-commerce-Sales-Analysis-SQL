@@ -15,7 +15,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 - The sales table contains 5 columns and 421571 rows.
 - The stores table contains 3 columns and 64 rows.
 
-**Features Table**
+**Features Table** 
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
