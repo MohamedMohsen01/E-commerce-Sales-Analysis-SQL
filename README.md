@@ -18,20 +18,20 @@ This dataset contains 3 tables - features data table, sales data table and store
 
 **Features Table** 
 
-| Column                  | Description                             | Data Type      |
-| :---------------------- | :-------------------------------------- | :------------- |
-| store                   | Invoice of the sales made               | VARCHAR(30)    |
-|date                     | Branch at which sales were made         | VARCHAR(5)     |
-| temprature              | The location of the branch              | VARCHAR(30)    |
-| fuel price              | The type of the customer                | VARCHAR(30)    |
-| markdown 1              | Gender of the customer making purchase  | VARCHAR(10)    |
-| markdown 1              | set of related products                 | VARCHAR(100)   |
-| markdown 1               | The price of each product               | DECIMAL(10, 2) |
-| markdown 1                | The amount of the product sold          | INT            |
-| markdown 1                    | The amount of tax on the purchase       | FLOAT(6, 4)    |
-| CPI               | The total cost of the purchase (sales)  | DECIMAL(10, 2) |
-| unemployment                    | The date on which the purchase was made | DATETIME       |
-| IsHoliday                   | The time at which the purchase was made | TIME           |
+| Column                  | Description                                                             | Data Type      |
+| :---------------------- | :--------------------------------------                                 | :------------- |
+| store                   | Represents the store number.                                            | VARCHAR(30)    |
+|date                     | the date of the recorded data.                                          | VARCHAR(5)     |
+| temprature              | the temperature on the given date and store location.                   | VARCHAR(30)    |
+| fuel price              | the fuel price on the given date and store location.                    | VARCHAR(30)    |
+| markdown 1              | various promotional markdowns of specific date and store location.      | VARCHAR(10)    |
+| markdown 2              | various promotional markdowns of specific date and store location.      | VARCHAR(100)   |
+| markdown 3              | various promotional markdowns of specific date and store location.      | DECIMAL(10, 2) |
+| markdown 4              | various promotional markdowns of specific date and store location.      | INT            |
+| markdown 5              | various promotional markdowns of specific date and store location.      | FLOAT(6, 4)    |
+| CPI                     | Consumer Price Index on the given date and store location.              | DECIMAL(10, 2) |
+| unemployment            | unemployment rate on the given date and store location.                 | DATETIME       |
+| IsHoliday               | Represents whether the given date is a holiday (TRUE) or not (FALSE).   | TIME           |
 
 
 
