@@ -121,6 +121,4 @@ Some of the business questions I've answered based on the data:
 - Group by
 - Order by
 
-For the the code, check the [ecommerce_sales_analysis_SQL_Queries.sql](https://github.com/MohamedMohsen01/E-commerce_Sales_Data_Analysis_SQL_Project/blob/main/ecommerce_sales_analysis_SQL.sql) file
-
-By examining these multiple factors, I aimed to gain comprehensive insights into the sales patterns and dynamics of the e-commerce business. This project showcases my proficiency in SQL and demonstrates my ability to perform advanced analysis to uncover valuable correlations and trends.
+For the the code, check the [ecommerce_sales_analysis_SQL_Queries.sql](https://github.com/MohamedMohsen01/E-commerce_Sales_Data_Analysis_SQL_Project/blob/main/ecommerce_sales_analysis_SQL.sql) file.
