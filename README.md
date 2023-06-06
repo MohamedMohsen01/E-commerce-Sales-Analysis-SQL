@@ -11,22 +11,22 @@ In this SQL project, I conducted an extensive analysis of e-commerce sales data,
    
 ## Data Dictionary
 
-This dataset contains 3 tables - features data table, sales data table and stores data table. 
-- The Features table contains 12 coluns and 8191 rows.
-- The sales table contains 5 columns and 421571 rows.
-- The stores table contains 3 columns and 64 rows.
+This dataset contains 3 tables:
+- Features table contains 12 coluns and 8191 rows.
+- Sales table contains 5 columns and 421571 rows.
+- Stores table contains 3 columns and 64 rows.
 
 **Features Table** 
 
 | Column                  | Description                                                             | Data Type      |
 | :---------------------- | :---------------------------------------------------------------------- | :------------- |
-|store                    | Represents the store number.                                            | INT            |
-|date                     | the date of the recorded data.                                          | DATE           |
+| store                   | Represents the store number.                                            | INT            |
+| date                    | the date of the recorded data.                                          | DATE           |
 | temprature              | the temperature on the given date and store location.                   | DECIMAL(3,3)   |
-| fuel price              | the fuel price on the given date and store location.                    | DECIMAL (10,3) |
+| fuel_price              | the fuel price on the given date and store location.                    | DECIMAL (10,3) |
 | markdown 1              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | markdown 2              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
-| markdown 3              | various promotional markdowns of specific date and store location.      | DECIMAL(10, 2) |
+| markdown 3              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2) |
 | markdown 4              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | markdown 5              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | CPI                     | Consumer Price Index on the given date and store location.              | DECIMAL(10, 7) |
@@ -38,7 +38,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 **Sales Table**
 | Column                  | Description                                                         | Data Type      |
 | :---------------------- | :------------------------------------------------------------------ | :------------- |
-| store                   | Represents the store number.                                       | INT            |
+| store                   | Represents the store number.                                        | INT            |
 | dept                    | Represents the department number.                                   | INT            |
 | date                    | the date of the recorded data.                                      | DATE           |
 | weekly_sales            | the weekly sales amount for the given store, department, and date.  | DECIMAL(20, 5) |
@@ -49,7 +49,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
 | store                   | Represents the store number.            | INT            |
-|type                     | Represents the store type.              | VARCHAR(5)     |
+| type                    | Represents the store type.              | VARCHAR(5)     |
 | size                    | Represents the size of the store.       | INT            |
 
 
