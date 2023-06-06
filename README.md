@@ -8,15 +8,14 @@ In this SQL project, I conducted an extensive analysis of e-commerce sales data,
 - Investigated the potential influence of key variables, such as unemployment rates, temperature, fuel prices, consumer price index (CPI), and holiday seasons, on sales.
 - Leveraged SQL to perform statistical analysis and assess the correlation or significance of these variables with sales performance.
 
-   
-## Data Discription
+
+## Data Dictionary
 
 This dataset contains 3 tables:
 - Features table contains 12 coluns and 8191 rows.
 - Sales table contains 5 columns and 421571 rows.
 - Stores table contains 3 columns and 64 rows.
 
-## Data Dictionary
 
 **Features Table** 
 
