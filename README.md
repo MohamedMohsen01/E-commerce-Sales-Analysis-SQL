@@ -19,7 +19,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 **Features Table** 
 
 | Column                  | Description                                                             | Data Type      |
-| :---------------------- | :--------------------------------------                                 | :------------- |
+| :---------------------- | :---------------------------------------------------------------------- | :------------- |
 | store                   | Represents the store number.                                            | VARCHAR(30)    |
 |date                     | the date of the recorded data.                                          | VARCHAR(5)     |
 | temprature              | the temperature on the given date and store location.                   | VARCHAR(30)    |
