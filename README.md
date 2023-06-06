@@ -79,7 +79,7 @@ This dataset contains 3 tables:
 6. **Data Integration:** 
  > - After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined      datasets based on common identifiers or keys to combine relevant information into a unified dataset.
 
-**Exploratory Data Analysis (EDA):** 
+## Exploratory Data Analysis (EDA): 
 Some of the business questions I've answered based on the data:
  > - What are the different store types in the dataset?
  > - Is there a difference in sales between the different store types?
