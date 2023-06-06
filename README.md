@@ -38,7 +38,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 **Sales Table**
 | Column                  | Description                                                         | Data Type      |
 | :---------------------- | :------------------------------------------------------------------ | :------------- |
-| store                   |  Represents the store number.                                       | INT            |
+| store                   | Represents the store number.                                       | INT            |
 | dept                    | Represents the department number.                                   | INT            |
 | date                    | the date of the recorded data.                                      | DATE           |
 | weekly_sales            | the weekly sales amount for the given store, department, and date.  | DECIMAL(20, 5) |
@@ -48,9 +48,9 @@ This dataset contains 3 tables - features data table, sales data table and store
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
-| store                   |                                         | VARCHAR(30)    |
-|type                     |                                          | VARCHAR(5)     |
-| size                    | The location of the branch              | VARCHAR(30)    |
+| store                   | Represents the store number.            | INT            |
+|type                     | Represents the store type.              | VARCHAR(5)     |
+| size                    | Represents the size of the store.       | INT            |
 
 
 ## Methodology 
