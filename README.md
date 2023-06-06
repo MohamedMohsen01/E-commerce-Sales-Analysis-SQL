@@ -22,7 +22,7 @@ This dataset contains 3 tables - features data table, sales data table and store
 | :---------------------- | :---------------------------------------------------------------------- | :------------- |
 |store                    | Represents the store number.                                            | INT            |
 |date                     | the date of the recorded data.                                          | DATETIME       |
-| temprature              | the temperature on the given date and store location.                   | FLOAT(10,3)    |
+| temprature              | the temperature on the given date and store location.                   | DECIMAL(3,3)   |
 | fuel price              | the fuel price on the given date and store location.                    | DECIMAL (10,3) |
 | markdown 1              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | markdown 2              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
