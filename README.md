@@ -26,7 +26,7 @@ This dataset contains 3 tables:
 | fuel_price              | the fuel price on the given date and store location.                    | DECIMAL (10,3) |
 | markdown 1              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | markdown 2              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
-| markdown 3              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2) |
+| markdown 3              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | markdown 4              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | markdown 5              | various promotional markdowns of specific date and store location.      | DECIMAL(10,2)  |
 | CPI                     | Consumer Price Index on the given date and store location.              | DECIMAL(10, 7) |
