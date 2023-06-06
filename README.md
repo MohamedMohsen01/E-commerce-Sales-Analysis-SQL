@@ -68,7 +68,7 @@ This dataset contains 3 tables:
 
 4. **Data Cleaning and Preprocessing:**
  >   my role in data wrangling and cleaning involved several tasks to ensure the data was in a usable and reliable format. Here are some key steps I took:
- > - I employed techniques like imputation or deletion, depending on the nature of the missing data.
+ > - Employed techniques like imputation or deletion, depending on the nature of the missing data.
  > - Eliminated any duplicate records or entries to ensure data integrity.
  > - Standardized the formats of data fields, such as dates, currencies, and units, to ensure consistency.
      
@@ -79,6 +79,15 @@ This dataset contains 3 tables:
 6. **Data Integration:** 
  > - After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined      datasets based on common identifiers or keys to combine relevant information into a unified dataset.
 
+**Exploratory Data Analysis (EDA):**
+ > What are the different store types in the dataset?
+Is there a difference in sales between the different store types?
+Which store has the highest total sales and which store has the lowest total sales?
+How does each department perform in the best performing store?
+How does each department perform in the worst performing store?
+What is the highest weekly sales in each department?
+How does the presence of holidays impact sales in different stores?
+How does temperature relate to sales in the top-selling store (Store 33)?
 
 
 
