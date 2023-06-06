@@ -57,24 +57,24 @@ This dataset contains 3 tables - features data table, sales data table and store
 
 1. **Data Understanding:**
 
-   > Familiarized myself with the dataset's structure, including the available columns, data types, and data dictionary.
-  Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
+ > Familiarized myself with the dataset's structure, including the available columns, data types, and data dictionary.
+   Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
 
 2. **Data Assessment:** 
-   > I assessed the quality and structure of the data to identify any issues or inconsistencies that needed to be addressed. This involved checking for missing        values, outliers, inconsistent formatting, or data entry errors.
+ > I assessed the quality and structure of the data to identify any issues or inconsistencies that needed to be addressed. This involved checking for missing        values, outliers, inconsistent formatting, or data entry errors.
 
 3. **Data Cleaning and Preprocessing:**
     my role in data wrangling and cleaning involved several tasks to ensure the data was in a usable and reliable format. Here are some key steps I took:
-  > - I employed techniques like imputation or deletion, depending on the nature of the missing data.
-  > - I eliminated any duplicate records or entries to ensure data integrity.
-  > - I standardized the formats of data fields, such as dates, currencies, and units, to ensure consistency.
+ > - I employed techniques like imputation or deletion, depending on the nature of the missing data.
+ > - I eliminated any duplicate records or entries to ensure data integrity.
+ > - I standardized the formats of data fields, such as dates, currencies, and units, to ensure consistency.
      
 4. **Data Transformation:**
   > I conducted data transformations to derive meaningful insights or facilitate analysis. This involved tasks like:
-   > - Aggregating Data: I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting.
+  > - Aggregating Data: I aggregated data at different levels, such as weekly, yearly, and by categories, to enable analysis and reporting.
 
 5. **Data Integration:** 
-  > After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined datasets based on common identifiers or keys to combine relevant information into a unified dataset.
+  > After cleaning and transforming the data, I validated the results to ensure accuracy and integrity. I worked with multiple data sources, I merged or joined      datasets based on common identifiers or keys to combine relevant information into a unified dataset.
 
 
 
