@@ -120,4 +120,4 @@ Some of the business questions I've answered based on the data:
 - Group by
 - Order by
 
-For the the code, check the [ecommerce_sales_analysis_SQL_Queries.sql](https://github.com/MohamedMohsen01/E-commerce_Sales_Data_Analysis_SQL_Project/blob/main/ecommerce_sales_analysis_SQL.sql) file.
+For the code, please feel free to check the [ecommerce_sales_analysis_SQL_Queries.sql](https://github.com/MohamedMohsen01/E-commerce_Sales_Data_Analysis_SQL_Project/blob/main/ecommerce_sales_analysis_SQL.sql) file.
